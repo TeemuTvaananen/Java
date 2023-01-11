@@ -1,2 +1,2 @@
 # Java
-School and hobby projects
+School projects from a total beginner
