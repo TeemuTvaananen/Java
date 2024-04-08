@@ -1,2 +1,2 @@
 # Java
-School projects from a total beginner
+School projects from my University courses
